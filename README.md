@@ -280,9 +280,6 @@ The application includes sample data for manual testing. Spring Boot features ca
 - Prescription tracking
 - Medical document upload
 
-## Support
-
-For issues or questions, please refer to the code documentation or Spring Boot official documentation.
 
 ## License
 
